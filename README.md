@@ -10,6 +10,7 @@
 - 참가 방법 : [meetup](https://www.meetup.com/ko-KR/awskrug)을 통해 공지
 
 ## 2019년
+- 2차: [2019년 3월 13일](meetups/20190313_meetup.md)
 - 1차: [2019년 2월 13일](meetups/20190213_meetup.md)
 
 ## 2017년
