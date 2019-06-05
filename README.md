@@ -7,7 +7,7 @@
 - 일시 : 매월 2째주 수요일
 - 참가비 : 5000원
 - 모임 내용 : AWSKRUG 판교 소모임에서는 AWS와 클라우드, 컨테이너, 자동화 등 다양한 분야에 대해 자유롭게 공유하는 모임이 되고자 합니다.
-- 회비 정산 : [2019년 판교 소모임 회비 정산](https://drive.google.com/file/d/1ONbDVZABNtbSWAd4htx5mzXu1iTPKC7p/view?usp=sharing)
+- 회비 정산 : [2019년 판교 소모임 회비 정산](https://drive.google.com/file/d/1iELIGAcESyceQGAk_NLkDTOFcTFs_XcL/view?usp=sharing)
 - 참가 방법 : [meetup](https://www.meetup.com/ko-KR/awskrug)을 통해 공지
 
 ## 2019년
