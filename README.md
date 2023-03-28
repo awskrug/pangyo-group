@@ -5,9 +5,17 @@
 ### 모임 정보
 - 장소 : [구름스퀘어](https://goorm-square.oopy.io/) (경기 성남시 분당구 판교로 242 A동 902호)
 - 일시 : 매월 3번째 화요일
-- 참가비 : 5000원
+- 참가비 : 6000원
 - 모임 내용 : AWSKRUG 판교 소모임에서는 AWS와 클라우드, 컨테이너, 자동화 등 다양한 분야에 대해 자유롭게 공유하는 모임이 되고자 합니다.
 - 참가 방법 : [meetup](https://www.meetup.com/ko-KR/awskrug)을 통해 공지
+
+## 2023년
+### 2023년 3월 21일
+[meetup 링크](https://www.meetup.com/ko-KR/awskrug/events/292066382/)
+[Circuit Breaker로 사이좋게 통신하기 - 황성찬](attachments/2023/0321/2023_03_21_pangyo_circuit_breaker.pdf)
+![1.jpeg](images/2023/0321/IMG_8966.jpg)
+![1.jpeg](images/2023/0321/IMG_8967.jpg)
+
 
 ### 2023년 2월 21일
 [meetuup 링크](https://www.meetup.com/ko-KR/awskrug/events/291455354/)  
@@ -16,7 +24,6 @@
 ![3.jpeg](images%2F2023%2F0221%2F3.jpeg)
 ![2.jpeg](images%2F2023%2F0221%2F2.jpeg)
 
-## 2023년
 ### 2023년 1월 17일
 [meetuup 링크](https://www.meetup.com/ko-KR/awskrug/events/290666214/)  
 [서버 가상화와 컨테이너의 이해 - 이병호](attachments%2F2023%2F0117%2F%EC%84%9C%EB%B2%84%20%EA%B0%80%EC%84%B1%ED%99%94%EC%99%80%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%9D%98%20%EC%9D%B4%ED%95%B4_%EC%9D%B4%EB%B3%91%ED%98%B8.pdf)  
