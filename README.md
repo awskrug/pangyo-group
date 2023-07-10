@@ -10,6 +10,17 @@
 - 참가 방법 : [meetup](https://www.meetup.com/ko-KR/awskrug)을 통해 공지
 
 ## 2023년
+### 2023년 6월 20일
+[meetup 링크](https://www.meetup.com/ko-KR/awskrug/events/294013867/)
+[AWS & Telepresence 를 이용하여 편리한 개발 환경 구성하기 - 윤상현](https://docs.google.com/presentation/d/1sbDeGQ0whx81XpIB55LkeOxLqa0n9422nJXl784N8Do/edit?usp=drive_link)  
+**사진이 없습니다 ㅠㅠ**
+
+### 2023년 4월 18일
+[meetup 링크](https://www.meetup.com/ko-KR/awskrug/events/292820455/)  
+나의 작은 Thanos monitoring system - 정승호  
+![1.jpg](images%2F2023%2F0418%2F20230418_202628.jpg)
+![2.jpg](images%2F2023%2F0418%2F20230418_195900.jpg)
+
 ### 2023년 3월 21일
 [meetup 링크](https://www.meetup.com/ko-KR/awskrug/events/292066382/)
 [Circuit Breaker로 사이좋게 통신하기 - 황성찬](attachments/2023/0321/2023_03_21_pangyo_circuit_breaker.pdf)
