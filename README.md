@@ -11,7 +11,7 @@
 
 ## 2023년
 ### 2023년 6월 20일
-[meetup 링크](https://www.meetup.com/ko-KR/awskrug/events/294013867/)
+[meetup 링크](https://www.meetup.com/ko-KR/awskrug/events/294013867/)  
 [AWS & Telepresence 를 이용하여 편리한 개발 환경 구성하기 - 윤상현](https://docs.google.com/presentation/d/1sbDeGQ0whx81XpIB55LkeOxLqa0n9422nJXl784N8Do/edit?usp=drive_link)  
 **사진이 없습니다 ㅠㅠ**
 
