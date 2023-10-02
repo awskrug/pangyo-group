@@ -9,6 +9,11 @@
 - 모임 내용 : AWSKRUG 판교 소모임에서는 AWS와 클라우드, 컨테이너, 자동화 등 다양한 분야에 대해 자유롭게 공유하는 모임이 되고자 합니다.
 - 참가 방법 : [meetup](https://www.meetup.com/ko-KR/awskrug)을 통해 공지
 
+### 2023년 10월 2일
+[meetuup 링크](https://www.meetup.com/ko-KR/awskrug/events/295997505/)  
+[비밀번호는 AWS만 믿으라구 feat. aws secretsmanager - 안덕기](attachments/2023/0919/비밀번호는AWS만믿으라구.pdf)  
+![1.jpeg](images/2023/0919/1.jpg)
+
 ## 2023년
 ### 2023년 6월 20일
 [meetup 링크](https://www.meetup.com/ko-KR/awskrug/events/294013867/)  
