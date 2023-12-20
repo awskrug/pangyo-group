@@ -9,12 +9,22 @@
 - 모임 내용 : AWSKRUG 판교 소모임에서는 AWS와 클라우드, 컨테이너, 자동화 등 다양한 분야에 대해 자유롭게 공유하는 모임이 되고자 합니다.
 - 참가 방법 : [meetup](https://www.meetup.com/ko-KR/awskrug)을 통해 공지
 
-### 2023년 10월 2일
+## 2023년
+### 2023년 12월 18일
+[meetuup 링크](https://www.meetup.com/ko-KR/awskrug/events/295997505/)  
+[2023년 판교 소모임 결산](https://docs.google.com/presentation/d/1a2-CKZ-LOt5k2SIWNMB6CcFx0j-X2u82tPMI4hqV86g/edit?usp=sharing)
+![IMG_3788.png](images/2023/1218/IMG_3788.png)
+
+### 2023년 11월 21일
+[meetuup 링크](https://www.meetup.com/ko-KR/awskrug/events/295997505/)  
+이번 소모임에서는 `'나는 이렇게 AWS 비용을 아끼고 있다'` 라는 주제로 자유 토론을 진행했습니다.  
+행사 사진을 찍지 못해 사진 자료가 없음을 양해 부탁드립니다.
+
+### 2023년 9월 19일
 [meetuup 링크](https://www.meetup.com/ko-KR/awskrug/events/295997505/)  
 [비밀번호는 AWS만 믿으라구 feat. aws secretsmanager - 안덕기](attachments/2023/0919/비밀번호는AWS만믿으라구.pdf)  
 ![1.jpeg](images/2023/0919/1.jpg)
 
-## 2023년
 ### 2023년 6월 20일
 [meetup 링크](https://www.meetup.com/ko-KR/awskrug/events/294013867/)  
 [AWS & Telepresence 를 이용하여 편리한 개발 환경 구성하기 - 윤상현](https://docs.google.com/presentation/d/1sbDeGQ0whx81XpIB55LkeOxLqa0n9422nJXl784N8Do/edit?usp=drive_link)  
