@@ -3,13 +3,21 @@
 
 ## 공지사항
 ### 모임 정보
-- 장소 : [구름스퀘어](https://goorm-square.oopy.io/) (경기 성남시 분당구 판교로 242 A동 902호)
-- 일시 : 격월 3번째 화요일
+- 장소 : [넥슨코리아](https://naver.me/IgTDnnmi) (경기 성남시 분당구 판교로 256번길 7)
+- 일시 : 격월 3번째 수요일
 - 참가비 : 6000원
 - 모임 내용 : AWSKRUG 판교 소모임에서는 AWS와 클라우드, 컨테이너, 자동화 등 다양한 분야에 대해 자유롭게 공유하는 모임이 되고자 합니다.
 - 참가 방법 : [meetup](https://www.meetup.com/ko-KR/awskrug)을 통해 공지
 
 ## 2024년
+### 2024년 5월 22일
+[meetuup 링크](https://www.meetup.com/ko-KR/awskrug/events/301052548/)  
+[AWS Summit Seoul 2024]()
+![1.jpeg](images/2024/0522/1.jpeg)
+![2.jpeg](images/2024/0522/2.jpeg)
+![3.jpeg](images/2024/0522/3.jpeg)
+
+
 ### 2024년 2월 20일
 [meetuup 링크](https://www.meetup.com/ko-KR/awskrug/events/299094101/)  
 [S3, ECR, RDS, Batch, Sagemaker 등의 cross-account 처리 방법](attachments/2024/0220/20240220_판교모임_김재일.pdf)
