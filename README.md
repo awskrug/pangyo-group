@@ -9,7 +9,13 @@
 - 모임 내용 : AWSKRUG 판교 소모임에서는 AWS와 클라우드, 컨테이너, 자동화 등 다양한 분야에 대해 자유롭게 공유하는 모임이 되고자 합니다.
 - 참가 방법 : [meetup](https://www.meetup.com/ko-KR/awskrug)을 통해 공지
 
+
 ## 2024년
+### 2024년 7월 18일
+[meetuup 링크](https://www.meetup.com/ko-KR/awskrug/events/302096534/)  
+[AWS Bedrock Workshop Part 1.](https://docs.google.com/presentation/d/1cSImUcrhWCJVnPsCl7_hVYZ51EdHhuSA/edit?rtpof=true)
+
+
 ### 2024년 5월 22일
 [meetuup 링크](https://www.meetup.com/ko-KR/awskrug/events/301052548/)  
 [AWS Summit Seoul 2024]()
