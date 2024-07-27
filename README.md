@@ -14,11 +14,11 @@
 ### 2024년 7월 18일
 [meetuup 링크](https://www.meetup.com/ko-KR/awskrug/events/302096534/)  
 [AWS Bedrock Workshop Part 1.](https://docs.google.com/presentation/d/1cSImUcrhWCJVnPsCl7_hVYZ51EdHhuSA/edit?rtpof=true)
-
+![1.jpeg](images/2024/0718/1.jpg)
 
 ### 2024년 5월 22일
 [meetuup 링크](https://www.meetup.com/ko-KR/awskrug/events/301052548/)  
-[AWS Summit Seoul 2024]()
+[AWS Summit Seoul 2024](attachments/2024/0522/20240522_aws_summit_후기_황성찬.pdf)
 ![1.jpeg](images/2024/0522/1.jpeg)
 ![2.jpeg](images/2024/0522/2.jpeg)
 ![3.jpeg](images/2024/0522/3.jpeg)
