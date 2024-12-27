@@ -11,6 +11,10 @@
 
 
 ## 2024년
+### 2024년 9월 23일
+[meetuup 링크](https://www.meetup.com/ko-KR/awskrug/events/303482167/?eventOrigin=your_events)  
+[AWS Bedrock Workshop Part 2.](https://docs.google.com/presentation/d/1pO4NDM2XZXdYNClruJK74UeL63FQ1DFJ/edit#slide=id.p1)
+
 ### 2024년 7월 18일
 [meetuup 링크](https://www.meetup.com/ko-KR/awskrug/events/302096534/)  
 [AWS Bedrock Workshop Part 1.](https://docs.google.com/presentation/d/1cSImUcrhWCJVnPsCl7_hVYZ51EdHhuSA/edit?rtpof=true)
