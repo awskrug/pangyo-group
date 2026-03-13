@@ -9,6 +9,14 @@
 - 참가 방법 : [meetup](https://www.meetup.com/ko-KR/awskrug)을 통해 공지
 
 
+## 2026년
+### 2026년 3월 10일
+[meetuup 링크](https://www.meetup.com/awskrug/events/313475105/)  
+[AWS EKS 와 함께 HashiCorp Vault 써보기](https://bit.ly/260310-pangyo)
+![1.jpg](images/2026/0310/1.jpg)
+![2.jpg](images/2026/0310/2.jpg)
+![3.jpg](images/2026/0310/3.jpg)
+
 ## 2024년
 ### 2024년 9월 23일
 [meetuup 링크](https://www.meetup.com/ko-KR/awskrug/events/303482167/?eventOrigin=your_events)  
